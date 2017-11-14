@@ -8,3 +8,4 @@ set(kindr_INCLUDE_DIRS "@kindr_include_dirs@")
 
 # This causes catkin_simple to link against these libraries
 set(kindr_FOUND_CATKIN_PROJECT true)
+set(kindr_FOUND true)
